@@ -21,9 +21,7 @@ Git vesioning of code is followed by rules when the main brach is updated to reb
 Every type of task builds us as a team, we have daily meetings and discussions. That builds strong responsibly for the task that we take and helps us to collaborate in a real team. - https://github.com/Society-Project
 
 ## 📫 How to reach me:
- Feel free to reach me on LinkedIn or by email:
- /n
- Linkedin: https://www.linkedin.com/in/simeon-cholakov/    Email: simeonstefanovcholakov@gmail.com
+ Feel free to reach me on LinkedIn or by email:  Linkedin: https://www.linkedin.com/in/simeon-cholakov/    Email: simeonstefanovcholakov@gmail.com
  
 ## 🛠️ Technologies & Tools:
 
