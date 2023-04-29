@@ -22,6 +22,7 @@ Every type of task builds us as a team, we have daily meetings and discussions. 
 
 ## 📫 How to reach me:
  Feel free to reach me on LinkedIn or by email:
+ /n
  Linkedin: https://www.linkedin.com/in/simeon-cholakov/    Email: simeonstefanovcholakov@gmail.com
  
 ## 🛠️ Technologies & Tools:
