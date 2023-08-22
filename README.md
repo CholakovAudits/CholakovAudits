@@ -1,5 +1,5 @@
 ## 👋 Introduction & Bio
-💻 I am Simeon Cholakov and I am passionate and hardworking Software Engineer who loves to write code and solve problems. I have interest in Web Development and Software Engineering fields and am seeking new and exciting opportunities related to them.
+💻 I am Simeon Cholakov and I am passionate and hardworking Software Engineer I love writing code and solve problems. I have interest in Web Development and Software Engineering fields and am seeking new and exciting opportunities related to them.
 
 🧠 JavaScript is my main programming language and have previous experience creating web applications with MERN stack.
 
