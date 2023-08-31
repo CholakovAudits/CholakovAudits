@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Simeon Cholakov</h1>
 
-# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me:**
 
 🔭 I’m currently working as a Front-End developer - [![](https://img.shields.io/badge/-EnskAI-yellow?style=flat-square&link=https://ensk.ai/)](https://ensk.ai/).
 </br>⚽ Doing stuff with Data for Footballers, Clubs && Agencies.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simeon-cholakov/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/CholakovAudits) 
 
 # 💻 Tech Stack:
